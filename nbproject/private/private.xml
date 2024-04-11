@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/Research%20Project/Math_Island/src/main/AssetSetter.java</file>
+            <file>file:/F:/Research%20Project/Math_Island/src/main/UtilityTool.java</file>
+            <file>file:/F:/Research%20Project/Math_Island/src/main/Main.java</file>
+            <file>file:/F:/Research%20Project/Math_Island/src/entity/Player.java</file>
+            <file>file:/F:/Research%20Project/Math_Island/src/main/UI.java</file>
+            <file>file:/F:/Research%20Project/Math_Island/src/main/EventHandler.java</file>
+            <file>file:/F:/Research%20Project/Math_Island/src/object/OBJ_Orb.java</file>
+            <file>file:/F:/Research%20Project/Math_Island/src/object/SuperObject.java</file>
+            <file>file:/F:/Research%20Project/Math_Island/src/object/OBJ_DisplayManaCrystal.java</file>
+            <file>file:/F:/Research%20Project/Math_Island/src/main/anotherCollsionChecker.java</file>
+            <file>file:/F:/Research%20Project/Math_Island/src/object/OBJ_FinalPortal.java</file>
+            <file>file:/F:/Research%20Project/Math_Island/src/object/OBJ_ManaCrystal.java</file>
+            <file>file:/F:/Research%20Project/Math_Island/src/object/OBJ_Stone.java</file>
+            <file>file:/F:/Research%20Project/Math_Island/src/main/CollisionChecker.java</file>
+            <file>file:/F:/Research%20Project/Math_Island/src/main/GamePanel.java</file>
+            <file>file:/F:/Research%20Project/Math_Island/src/main/KeyHandler.java</file>
+            <file>file:/F:/Research%20Project/Math_Island/src/object/OBJ_enemy.java</file>
+            <file>file:/F:/Research%20Project/Math_Island/src/tile/Tile.java</file>
+            <file>file:/F:/Research%20Project/Math_Island/src/main/menu.java</file>
+            <file>file:/F:/Research%20Project/Math_Island/src/tile/TileManager.java</file>
+            <file>file:/F:/Research%20Project/Math_Island/src/entity/girlPlayer.java</file>
+            <file>file:/F:/Research%20Project/Math_Island/src/entity/Entity.java</file>
+        </group>
+    </open-files>
+</project-private>
